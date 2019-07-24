@@ -2,13 +2,6 @@
 #                               MERAKI UPDATE
 ###############################################################################################################################################
 #   This scripts contains Meraki Functions
-#   Created on: 2019-01-09
-#   Created by: Sebastian van Dijk
-#
-#   Changelog:
-#   2019-03-08: SvD Add WIFI Functions
-#   2019-03-20: SvD Add Pause after Catch
-#   2019-06-17: SvD Add Get-ManagementInterfaceSetting 
 #
 #
 ##############################################################################################################################################
